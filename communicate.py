@@ -1,5 +1,6 @@
 # https://realpython.com/python-send-email/
 # https://myaccount.google.com/lesssecureapps
+# https://www.cyberciti.biz/faq/how-to-find-my-public-ip-address-from-command-line-on-a-linux/
 
 import socket
 import sys
