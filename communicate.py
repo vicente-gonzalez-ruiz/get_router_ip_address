@@ -30,4 +30,4 @@ while True:
             server.sendmail(sender_email, receiver_email, message)
             sys.stdout.write("done\n");
     old = message
-    time.sleep(1)
+    time.sleep(60)
